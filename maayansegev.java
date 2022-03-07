@@ -4,7 +4,7 @@ public class maayansegev
 	{
 		for(int i=1;i<=10;i++)
 		{
-			System.out.println("maayan change 2..."+i);
+			System.out.println("maayan change 3..."+i);
 		}
 	}
 }
